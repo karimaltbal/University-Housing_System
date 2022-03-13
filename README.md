@@ -17,3 +17,4 @@ It is a real system that provides many services for (visitors - students - emplo
 
 3-management: One of the most important part of the system is responsible for managing each part of the university housing, whether to (responding to the following requests from users - adding expenses to residents - following up on the attendance and absence of students - approving the enrollment application - housing users - evacuating users - adding Buildings and rooms - creating any news about the institute - creating a new user).
 
+![1](https://user-images.githubusercontent.com/67224257/158075514-e85348f8-87f4-4d63-9222-5a63dd834281.png)
